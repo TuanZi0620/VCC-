@@ -1,0 +1,19 @@
+--create Project2\Project2.lib
+project2\startup_stm32f103xb.o
+project2\main.o
+project2\gpio.o
+project2\stm32f1xx_it.o
+project2\stm32f1xx_hal_msp.o
+project2\stm32f1xx_hal_gpio_ex.o
+project2\stm32f1xx_hal.o
+project2\stm32f1xx_hal_rcc.o
+project2\stm32f1xx_hal_rcc_ex.o
+project2\stm32f1xx_hal_gpio.o
+project2\stm32f1xx_hal_dma.o
+project2\stm32f1xx_hal_cortex.o
+project2\stm32f1xx_hal_pwr.o
+project2\stm32f1xx_hal_flash.o
+project2\stm32f1xx_hal_flash_ex.o
+project2\stm32f1xx_hal_exti.o
+project2\system_stm32f1xx.o
+project2\oled.o
